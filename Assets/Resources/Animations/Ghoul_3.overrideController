@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ghoul_3
+  m_Controller: {fileID: 9100000, guid: 6862c9ca7d80fe541b46fb4b2d73859f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3415b47a15f9e0f4eb9d642f493678e7, type: 2}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 84be116842c707a42ab0ee701ea87d1a,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f19027cbe1587644fa3521531bdb5231, type: 2}
+    m_OverrideClip: {fileID: -203655887218126122, guid: cdb6a830abd018f4f9d01fd1286d2169,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: dbf04de9d6a220d4eadb8bea037e653a, type: 2}
+    m_OverrideClip: {fileID: -203655887218126122, guid: ffb63b0e32ec3a5408a1412a61563880,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: a3931c6cec76f744487a46c580d66f23, type: 2}
+    m_OverrideClip: {fileID: -203655887218126122, guid: ae29e9e3026859f4787d74648f539345,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: db01928172dd4124a84a4a2a9146d996, type: 2}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 0cf39d3ff7d056a45924d034180c8502,
+      type: 3}
